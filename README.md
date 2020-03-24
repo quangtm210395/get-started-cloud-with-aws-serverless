@@ -10,7 +10,7 @@ Trong số những dịch vụ được xuất hiện trọng mục Free Tier c�
 Vậy chúng ta cần chuẩn bị gì cho ngày hôm nay:
   - Một máy tính cá nhân để thao tác
   - Một thẻ tín dụng
-  - Một cái bụng no (:smile)
+  - Một cái bụng no :smile:
 
 ## Step1: Tạo tài khoản AWS
 Để tạo tài khoản AWS thì các bạn vào link này: https://portal.aws.amazon.com/billing/signup, sau khi điền thông tin tài khoản và ấn `Continue` thì các bạn sẽ được dẫn đến trang điền thông tin cá nhân của bạn:
